@@ -4,9 +4,8 @@ Traditional machine learning (Scikit-Learn) and deep learning (TensorFlow / Kera
 
 This repository accompanies the Summative Assignment for the Introduction to Machine Learning module.
 
-**Links:** [Written report](#) | [Presentation video](#) | [Google Drive (dataset zip and saved models)](#)
 
-**Author:** [Student name], [Student ID]
+**Author:** Yusuf Nabide, Introduction to Machine Learning C2
 
 ---
 
